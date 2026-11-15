@@ -10,7 +10,7 @@ Location checks can be sent whenever you finish a battle in the story mode, not 
 When the player receives an item, they either get ability slots, item stots, Transformations, Scrolls of Time, or Progressive Star PQ Unlocks.
 
 A two main items are required for progression in the game, these items are:
-- **Scrolls of Time** Required throughout the story mode of the game to unlock the next "ark" in the game, for example, if you have no scrolls of time, you can do the full Saiyan Saga, if you have 1 scroll of time, you can do the Namek Saga, etc.
+- **Scrolls of Time** Required throughout the story mode of the game to unlock the next "arc" in the game, for example, if you have no scrolls of time, you can do the full Saiyan Saga, if you have 1 scroll of time, you can do the Namek Saga, etc.
 - **Progressive Star PQs** These let you do all the parallel quests that have a specific star of difficulty, for example, if you have none of these, you can do 1 star PQ's only, if you have 1 of these, you can do 2 star pqs, and all the way up to 7 star.
 
 ## What are the available options?
