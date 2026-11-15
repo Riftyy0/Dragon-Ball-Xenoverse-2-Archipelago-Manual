@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "DBXV2",
+  "creator": "Riftyy",
+  "filler_item_name": "Medals",
+  "starting_items": []
+}

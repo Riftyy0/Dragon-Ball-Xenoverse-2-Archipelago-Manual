@@ -1,0 +1,181 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "4",
+      "name": "Progressive Super Skill Slot",
+      "category": [
+        "Fight Abilities"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Ultimate Skill Slot",
+      "category": [
+        "Fight Abilities"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Evasive Skill Slot",
+      "category": [
+        "Fight Abilities"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Transformation Skill Slot",
+      "category": [
+        "Transformations"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Super Saiyan (1-3)",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Future Super Saiyan",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Saiyan God",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Saiyan Blue (SSGSS)",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Saiyan Blue Evolved (SSGSSE)",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Kaioken",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Potential Unleashed",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Beast",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ultra Instinct",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Vegeta",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Power Pole Pro",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Purification",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Form",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Giant Form",
+      "category": [
+        "Transformations"
+      ],
+      "useful": true
+    },
+    {
+      "count": "10",
+      "name": "Scroll of Time",
+      "category": [
+        "Story Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "10",
+      "name": "Progressive Star PQs Unlock",
+      "category": [
+        "PQ Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "15",
+      "name": "Dragon Balls",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Progressive Item Slot",
+      "category": [
+        "Item Slot Unlocks"
+      ],
+      "useful": true
+    }
+  ]
+}

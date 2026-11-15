@@ -1,0 +1,1054 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Defeat Mira (Story Mode Complete)",
+      "victory": true,
+      "region": "Final Saga",
+      "category": [
+        "GOAL"
+      ],
+      "requires": "|Progressive Super Skill Slot:4|, |Progressive Ultimate Skill Slot:2|, |Evasive Skill Slot|, |Transformation Skill Slot|"
+    },
+    {
+      "name": "(Story) - Make Way, Rookie Time Patroller Here!",
+      "region": "Saiyan Saga",
+      "category": [
+        "Saiyan Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(Story) - Saiyan Siege! - Defend the Earth",
+      "region": "Saiyan Saga",
+      "category": [
+        "Saiyan Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Saiyan Saga",
+      "name": "(Story) - Turles, the Other Saiyan",
+      "category": [
+        "Saiyan Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Saiyan Saga",
+      "name": "(Story) - Saiyan Brutality! - Beyond the Limits",
+      "category": [
+        "Saiyan Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Saiyan Saga",
+      "name": "(Story) - Power x10 x2? Great Ape Transformation",
+      "category": [
+        "Saiyan Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Frieza's Aides - Zarbon and Dodoria",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Lord Slug, the Wicked Namekian!",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Careful, Vegeta! Dodoria in Pursuit",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Greetings! - Trunks, History's Hero",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - The Egg that Birthed Time",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - All Together Now! - The Ginyu Force",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - It's Goku! - Nefarious Plans Afoot",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Return My Body! - Trunks's Blunder",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Buy Some Time! - Nail's Frantic Fight",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Evil Ambitions - Turles and Slug",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Fear Has Many Forms - Emperor Frieza",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - Goku's Rage! - Birth of a Super Saiyan",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Namek Saga",
+      "name": "(Story) - The Final Battle! - Two Powers Fade",
+      "category": [
+        "Namek Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Cell Saga",
+      "name": "(Story) - Strategic Uncertainty - The Android Cell",
+      "category": [
+        "Cell Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Cell Saga",
+      "name": "(Story) - Mira, Warrior from the Demon Realm",
+      "category": [
+        "Cell Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Cell Saga",
+      "name": "(Story) - Awake, Gohan! Unlesh your Hidden Power",
+      "category": [
+        "Cell Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Cell Saga",
+      "name": "(Story) - Revived! A Power Level of 10 Billion",
+      "category": [
+        "Cell Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Cell Saga",
+      "name": "(Story) - Father to Son - The Last Kamehameha",
+      "category": [
+        "Cell Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Future Timeline Mini Saga",
+      "name": "(Story) - Fighting for Hope! Future Warrior Gohan",
+      "category": [
+        "Future Timeline Mini Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Future Timeline Mini Saga",
+      "name": "(Story) - Trunks: The Last Fighter",
+      "category": [
+        "Future Timeline Mini Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Buu Saga",
+      "name": "(Story) - Out of my Way! - Life or Death Battle",
+      "category": [
+        "Buu Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Buu Saga",
+      "name": "(Story) - Buu's Snack! Super Buu Attacks",
+      "category": [
+        "Buu Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Buu Saga",
+      "name": "(Story) - Gohan's Power Reborn",
+      "category": [
+        "Buu Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Buu Saga",
+      "name": "(Story) - Angel from the Underworld, Janemba",
+      "category": [
+        "Buu Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Buu Saga",
+      "name": "(Story) - A Momentous Galactic Battle",
+      "category": [
+        "Buu Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Battle of Gods Saga",
+      "name": "(Story) - Decisive Battle in Divine Company",
+      "category": [
+        "Battle of Gods Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Battle of Gods Saga",
+      "name": "(Story) - The Pudding Problem - Beerus's Fury",
+      "category": [
+        "Battle of Gods Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Resurrection F Saga",
+      "name": "(Story) - The Emperor of Dread Returns",
+      "category": [
+        "Resurrection F Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Resurrection F Saga",
+      "name": "(Story) - Golden Frieza - The Nemesis's Revenge",
+      "category": [
+        "Resurrection F Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Resurrection F Saga",
+      "name": "(Story) - Fraternal Fright! The Brothers Return",
+      "category": [
+        "Resurrection F Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Resurrection F Saga",
+      "name": "(Story) - Time to Train! - Whis's Whimsy",
+      "category": [
+        "Resurrection F Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(Story) - Bardock, the Masked Man",
+      "region": "Final Saga",
+      "category": [
+        "Final Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Final Saga",
+      "name": "(Story) - Towa's Secrets - Heroic Manipulation",
+      "category": [
+        "Final Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Final Saga",
+      "name": "(Story) - By Shenron's Might! - History Restored",
+      "category": [
+        "Final Saga (Story Mode)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Being a Time Patroller",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - A Deal?! The Saiyan Brothers",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - World Tournament Tag Team",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Prepare for the Attack of Saiyans!",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Saiyan Blood",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Saibamen's Revenge",
+      "region": "1 Star PQs",
+      "category": [
+        "1 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Attack of the Saiyans",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Invade Earth",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - The Saiyan King is...Who?",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Saiyan Survivors",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Burst Open and Mix!",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Simian Battlefront",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Namekian Dragon Balls",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Saiyan Pride",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Gotta Find That Dragon Ball!",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "2 Star PQs",
+      "name": "(PQ) - Defeat Frieza's Army!",
+      "category": [
+        "2 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Ginyu and the Fruit",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Force Entrance Exam",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Fierce Battle! Ginyu Force",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Frieza! Show Yourself!",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Tri-Race Coop",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Dragon Ball Brawl",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - The Explosion of Namek",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Super Saiyan Legend",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - The Emperor's Brother",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Clash of Kin!",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Metal Cooler Riot",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "3 Star PQs",
+      "name": "(PQ) - Legendary Super Saiyan",
+      "category": [
+        "3 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - The Androids Attack",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Challenger Hercule",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Let's Train",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Multiple Cell Jr. Hunt",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Earth in Danger!",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Return of the Ginyu Force",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Miscalculations in Time",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - The Cell Games Begin",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Clash! Perfect Cell!",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Power Teams",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - 17 and 18 of the Official History",
+      "region": "4 Star PQs",
+      "category": [
+        "4 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "5 Star PQs",
+      "name": "(PQ) - The Future Warriors!",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "5 Star PQs",
+      "name": "(PQ) - Warriors' Annihilation - Future Chapters",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "5 Star PQs",
+      "name": "(PQ) - Artificial Warriors",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Change the Future",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Dragon Balls of the Future",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Take Back the Dragon Balls!",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - 16 of the Official History",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Daddy! Don't Die!",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - 2nd World Tournament Tag Team",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Namek Berserker",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Majin Chaos",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Great Saiyaman is Here",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Super Saiyan Bargain Sale",
+      "region": "5 Star PQs",
+      "category": [
+        "5 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - The Fist of Justice!",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Majin Revival",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Tag with Gotenks",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Hercule is Number One",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Hell is a Picture?",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Majin Banquet",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Potara Warrior",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Blast the Super Spirit Bomb!",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - The Cell Games Continued",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Frieza's Nightmare Returns!",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Appetite for Destruction!",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Appetite for Destruction!",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Beerus the Impulsive",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - The New Warriors",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Stop Beerus' Destruction",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Power of a Super Saiyan God",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - Old Rivals and Dragon Balls",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "6 Star PQs",
+      "name": "(PQ) - God of Destruction and His Master",
+      "category": [
+        "6 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Things Are Getting Serious!",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Abominable Saiyans",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - First Training",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Frieza's Siege Against Earth",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Galactic Patrol, Away!",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Room to Spare",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Eternal Rival",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Parent and Child",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Heated, Furious, Ultimate Battle",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Great Ape Festival",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - The Return of the Giant Ape-Fest!",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Wake Up!",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Ultimate Brotherly Battle",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Dangerous Duo! Warriors Never Rest",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Saiyan Warriors",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Power Berserkers",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Yamcha is Number One",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Saiyan Battle",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "7 Star PQs",
+      "name": "(PQ) - Evil Seeks Dragon Balls Yet Again!",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(PQ) - Super-Super Ultimate Series of Battles!",
+      "region": "7 Star PQs",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "7 Star PQs",
+      "name": "(PQ) - Gathering of the Great Evil Alliance",
+      "category": [
+        "7 Star Parallel Quests"
+      ],
+      "requires": ""
+    }
+  ]
+}

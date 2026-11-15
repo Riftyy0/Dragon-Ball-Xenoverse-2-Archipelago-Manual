@@ -1,0 +1,89 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Saiyan Saga": {
+    "starting": true,
+    "connects_to": [
+      "Namek Saga"
+    ],
+    "requires": ""
+  },
+  "Namek Saga": {
+    "connects_to": [
+      "Cell Saga"
+    ],
+    "requires": "|Scroll of Time:1|"
+  },
+  "Cell Saga": {
+    "connects_to": [
+      "Future Timeline Mini Saga"
+    ],
+    "requires": "|Scroll of Time:2|"
+  },
+  "Buu Saga": {
+    "connects_to": [],
+    "requires": "|Scroll of Time:4|"
+  },
+  "Battle of Gods Saga": {
+    "connects_to": [
+      "Resurrection F Saga"
+    ],
+    "requires": "|Scroll of Time:5|"
+  },
+  "Resurrection F Saga": {
+    "connects_to": [
+      "Final Saga"
+    ],
+    "requires": "|Scroll of Time:6|"
+  },
+  "Future Timeline Mini Saga": {
+    "connects_to": [
+      "Buu Saga"
+    ],
+    "requires": "|Scroll of Time:3|"
+  },
+  "Final Saga": {
+    "connects_to": [],
+    "requires": "|Scroll of Time:7|"
+  },
+  "1 Star PQs": {
+    "starting": true,
+    "connects_to": [
+      "2 Star PQs"
+    ],
+    "requires": ""
+  },
+  "2 Star PQs": {
+    "connects_to": [
+      "3 Star PQs"
+    ],
+    "requires": "|Progressive Star PQs Unlock:1|"
+  },
+  "3 Star PQs": {
+    "connects_to": [
+      "4 Star PQs"
+    ],
+    "requires": "|Progressive Star PQs Unlock:2|"
+  },
+  "4 Star PQs": {
+    "connects_to": [
+      "5 Star PQs"
+    ],
+    "requires": "|Progressive Star PQs Unlock:3|"
+  },
+  "5 Star PQs": {
+    "connects_to": [
+      "6 Star PQs"
+    ],
+    "requires": "|Progressive Star PQs Unlock:4|"
+  },
+  "6 Star PQs": {
+    "connects_to": [
+      "7 Star PQs"
+    ],
+    "requires": "|Progressive Star PQs Unlock:5|"
+  },
+  "7 Star PQs": {
+    "connects_to": [],
+    "requires": "|Progressive Star PQs Unlock:6|"
+  }
+}
