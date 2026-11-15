@@ -18,8 +18,7 @@ Currently, there are no real options besides Deathlink, which will show up on yo
 
 ## misc information
 
-You may discuss the manual in the Archipelago Manual discord server, right within the Dragon Ball XV2 thread. [Find the discord here](https://discord.gg/T5bcsVHByx), [Find the thread here](https://canary.discord.com/channels/1097532591650910289/1230046028799934464)
-
+You may discuss the manual in the Archipelago Manual discord server, right within the Dragon Ball XV2 thread. [Find the discord here](https://discord.gg/T5bcsVHByx), [Find the thread here](https://discord.com/channels/1097532591650910289/1571306909246685214)
 Universal Tracker recomended for this manual. [Find the download to the APWorld here.](https://github.com/FarisTheAncient/Archipelago/releases/)
 
 Credits to @wolfplay013 for the template on this readme.
